@@ -42,9 +42,7 @@ The dataset consists of telecom customer records with the following attributes:
 - **Histograms & Box Plots** – Understanding numerical data distributions  
 - **Correlation Heatmaps** – Identifying feature relationships
 
-- # 📊 Telecom Churn Data Analysis - FAQs & Insights
-
-## ❓ Frequently Asked Questions (FAQs)  
+- # 📊 Telecom Churn Data Analysis - Questions and Answers
 
 ### 🔹 Q1: What is customer churn, and why is it important for telecom companies?  
 **A:** Customer churn refers to the percentage of subscribers who leave a service within a given period. It is crucial for telecom companies because **high churn rates lead to revenue loss, increased acquisition costs, and reduced profitability**. Understanding churn helps **optimize customer retention strategies** and **enhance service offerings**.  
